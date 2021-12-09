@@ -6,4 +6,4 @@
 - 🔭 Currently working on Calculated project
 - ⚡ Fun fact: Penguins have knees LOL
 - 💻 Website: https://sitaarz.github.io/
-- Fork link: https://github.com/Sitaarz/edBBdb
+- Fork link: https://github.com/BiDAlab/edBBdb

@@ -2,7 +2,7 @@
 
 
 - 🇵🇱 Polish nationality
-- 📚 A fifth year student of Computer Science and Inteligent Systems at AGH University of Science and Technology in Poland 
+- 📚 A fourth year student of Computer Science and Inteligent Systems at AGH University of Science and Technology in Poland 
 - ⚡ Fun fact: Penguins have knees LOL
 <!-- - 🔭 Currently working on Calculated project -->
 <!-- - 💻 Website: https://sitaarz.github.io/ -->

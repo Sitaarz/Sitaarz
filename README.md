@@ -37,7 +37,7 @@ I'm a **Full-Stack Software Engineer** with hands-on experience in building and 
 ## 📂 Selected Projects
 ### 🧠 WorkTracker
 System for task managment written using SOLID proncipals
-**Tech:** C#, .NET, Typescript, Angular
+**Tech:** C#, .NET, Typescript, Angular. 
 ➡️ [GitHub repository](https://github.com/Sitaarz/WorkTracker)
 
 

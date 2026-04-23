@@ -38,7 +38,7 @@ I'm a **Full-Stack Software Engineer** with hands-on experience in building and 
 ### 🧠 WorkTracker
 System for task managment written using SOLID proncipals
 **Tech:** C#, .NET, Typescript, Angular
-➡️ GitHub repository
+➡️ [GitHub repository](https://github.com/Sitaarz/WorkTracker)
 
 
 ### 🧠 OptiSched

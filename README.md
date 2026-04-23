@@ -40,17 +40,15 @@ System for task managment written using SOLID proncipals
 **Tech:** C#, .NET, Typescript, Angular.  
 ➡️ [GitHub repository](https://github.com/Sitaarz/WorkTracker)
 
-
-### 🧠 OptiSched
-Intelligent meeting scheduling system based on **genetic algorithms**  
-**Tech:** C#, .NET, Angular  
-➡️ GitHub repository
-
 ### ⚡ Numerical Integration Using CUDA
 GPU-based parallel numerical integration console application  
 **Tech:** C++, CUDA  
 ➡️ GitHub repository
 
+### 🧠 OptiSched
+Intelligent meeting scheduling system based on **genetic algorithms**  
+**Tech:** C#, .NET, Angular  
+➡️ GitHub repository
 ---
 
 ## 🎓 Education

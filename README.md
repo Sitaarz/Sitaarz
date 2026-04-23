@@ -35,7 +35,7 @@ I'm a **Full-Stack Software Engineer** with hands-on experience in building and 
 ---
 
 ## 📂 Selected Projects
-### 🧠 WorkTracker
+### 🧠 WorkTracker[In Progress]
 System for task managment written using SOLID proncipals
 **Tech:** C#, .NET, Typescript, Angular.  
 ➡️ [GitHub repository](https://github.com/Sitaarz/WorkTracker)
@@ -43,7 +43,7 @@ System for task managment written using SOLID proncipals
 ### ⚡ Numerical Integration Using CUDA
 GPU-based parallel numerical integration console application  
 **Tech:** C++, CUDA  
-➡️ GitHub repository
+➡️ [GitHub repository](https://github.com/Sitaarz/Numerical-Integration-Using-CUDA)
 
 ### 🧠 OptiSched
 Intelligent meeting scheduling system based on **genetic algorithms**  

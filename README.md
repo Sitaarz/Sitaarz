@@ -49,6 +49,7 @@ GPU-based parallel numerical integration console application
 Intelligent meeting scheduling system based on **genetic algorithms**  
 **Tech:** C#, .NET, Angular  
 ➡️ [GitHub repository](https://github.com/Sitaarz/OptiSched)
+
 --- 
 
 ## 🎓 Education

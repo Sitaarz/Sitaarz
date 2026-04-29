@@ -45,11 +45,6 @@ GPU-based parallel numerical integration console application
 **Tech:** C++, CUDA  
 ➡️ [GitHub repository](https://github.com/Sitaarz/Numerical-Integration-Using-CUDA)
 
-### 🧠 OptiSched  
-Intelligent meeting scheduling system based on **genetic algorithms**  
-**Tech:** C#, .NET, Angular  
-➡️ [GitHub repository](https://github.com/Sitaarz/OptiSched)
-
 --- 
 
 ## 🎓 Education
